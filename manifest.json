@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "version" : "1.5",
+    "name" : "Tab Snap",
+    "action" : {
+        "default_popup" : "index.html",
+        "default_icon" : "src/ico.png"
+    },
+    "icons": {
+        "16": "src/ico.png",
+        "32": "src/ico.png",
+        "48": "src/ico.png",
+        "128": "src/ico.png"
+      },
+    "permissions":[
+        "tabs"
+    ],
+    "host_permissions": [
+        "https://*/*"
+      ],
+   
+    "description" : ""
+}
