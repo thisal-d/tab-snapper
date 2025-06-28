@@ -1,4 +1,4 @@
-# Tab-Snap
+# Tab Snapper
 
 Extension to quickly save and restore your open tabs.
 
